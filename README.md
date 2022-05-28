@@ -3,7 +3,7 @@ Repository for the Capstone project
 
 # Using the Capstone environment
 
-Based on Angel Castellano's explanation __https://raw.githubusercontent.com/acastellanos-ie/NLP-MBD-EN2021S-Electives/main/README.md__.
+Based on Angel Castellano's explanation __https://github.com/acastellanos-ie/NLP-MBD-EN2021S-Electives/blob/main/README.md__.
 
 This section covers the instructions to configure the repo for executing locally the practice notebooks.
 
