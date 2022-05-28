@@ -48,7 +48,7 @@ After the parameter `--name` we define the name of our environment. In my case, 
 3. Activate your environment:
 
   ```
-  conda activate nlp
+  conda activate Capstone
   ```
   
 ## Install the required libraries in your environment
