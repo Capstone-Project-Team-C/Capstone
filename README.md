@@ -40,7 +40,7 @@ After cloning you should see all the materials in your local folder (and your lo
 2. Create the environment with a name of your choice:
 
   ```
-  conda create --name nlp python=3.8
+  conda create --name Capstone python=3.8
   ```
   
 After the parameter `--name` we define the name of our environment. In my case, it’s `Capstone`. Also you can choose the python version (3.8 for us).
